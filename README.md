@@ -18,7 +18,10 @@
 | update_datetime | Timestamp last updated data |
 | timestamp | Timestamp interval on which API data is fetched |
 
-Location: ./data/Carpark_15min
+## Pre-Requisite 
+
+SQLite file: https://drive.google.com/file/d/1FEVOPH231oVRXnfOVlyykoqcW0JVRvd3/view?usp=sharing
+Copy Location: ./data/
 
 ## Processor
 
