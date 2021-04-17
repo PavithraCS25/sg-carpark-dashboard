@@ -236,4 +236,4 @@ def update_output(start_date, end_date):
 
 
 if __name__ == '__main__':
-    app.run_server(debug=False)
+    app.run_server(debug=False, host="0.0.0.0")
